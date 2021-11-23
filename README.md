@@ -1,2 +1,2 @@
 # html-boilerplate
-html boilerplate
+Just an html boilerplate.
